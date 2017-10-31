@@ -1,8 +1,10 @@
-##官方网站：http://www.rhaphp.com/
-
+##此项目为官方1.0克隆版 
+##官方网站：http://www.rhaphp.com/   github ：https://github.com/geesondog/rhaphp
 微信公众号管理系统，也是一套微信公众号开发框架。支持移动管理，几乎集合微信功能，简洁、快速上手、快速开发微信各种各样应用。 
 安装系统
-把系统所需要文件上传到你的网站根目录，data,uploads权限为777。访问http:域名/index.php/install/即可进入安装。PHP5.5或以上，但是为了最佳运行效果我们建议你使用PHP7.0或以上的版本，MYSQL建议在5.5或以上注意字符是utf8mb4。如果你在使用过程中遇到问题，请访问官方网站或者联系我们。也可邮件方式：qimengkeji@vip.qq.com
+把系统所需要文件上传到你的网站根目录，data,uploads权限为777。访问http:域名/index.php/install/即可进入安装。PHP5.5或以上，但是为了最佳运行效果我们建议你使用PHP7.0或以上的版本，MYSQL建议在5.5或以上注意字符是utf8mb4。如果你在使用过程中遇到问题，请访问官方网站或者联系我们。也可邮件方式
+官方邮箱：qimengkeji@vip.qq.com
+
 ## 系统目录结构
 ~~~
 www 
